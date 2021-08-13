@@ -26,6 +26,7 @@ print("                                 ")
 print("                                 ")
 print(colored("       By JOKER  ",'green'))
 print("                                 ")
+print("                                follow for mode updates https://github.com/TUDDUMDEBBA/Wifi_Deauthentication.git   ")
 
 def network_scan():
     if platform.system() == "Windows":
