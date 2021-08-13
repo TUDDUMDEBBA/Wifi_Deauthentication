@@ -11,3 +11,4 @@ uncomment  line number 3 or target1 and make changes in addr3 = target to target
 
 each deauth packet removes the victim from network for 10 seconds 
  
+Follow for new Updates https://github.com/TUDDUMDEBBA/Wifi_Deauthentication.git
